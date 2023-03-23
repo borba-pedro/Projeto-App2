@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'FYTNESS CAL',
       theme: ThemeData(
     
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
       ),
       home: TelaInicio()
     );
